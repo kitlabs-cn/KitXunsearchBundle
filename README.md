@@ -1,0 +1,2 @@
+# KitXunsearchBundle
+symfony xunsearch bundle
